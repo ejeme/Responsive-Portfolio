@@ -81,6 +81,14 @@ body {
     border: 3px solid black;
    }
 
+   .hangman {
+       margin-top: 28px;
+   }
+
+   .trivia {
+       margin-left:20px;
+   }
+
      @media screen and (max-width:980px){
         nav{width:100%;}        
             }
